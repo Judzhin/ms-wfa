@@ -1,0 +1,16 @@
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\bin\Debug\BankRetail.exe
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\bin\Debug\BankRetail.pdb
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.Properties.Resources.resources
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.exe
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.pdb
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.MainForm.resources
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.AddDebitor.resources
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.AddCredit.resources
+C:\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.AddPayment.resources
+D:\Projects\MSLessons\CSharpe\ADO\BankRetail\BankRetail\bin\Debug\BankRetail.exe.config
+D:\Projects\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.exe
+D:\Projects\MSLessons\CSharpe\ADO\BankRetail\BankRetail\obj\x86\Debug\BankRetail.pdb

@@ -1,0 +1,5 @@
+C:\MSLessons\CSharpe\SborkaMusora\SborkaMusora\bin\Debug\SborkaMusora.exe
+C:\MSLessons\CSharpe\SborkaMusora\SborkaMusora\bin\Debug\SborkaMusora.pdb
+C:\MSLessons\CSharpe\SborkaMusora\SborkaMusora\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MSLessons\CSharpe\SborkaMusora\SborkaMusora\obj\x86\Debug\SborkaMusora.exe
+C:\MSLessons\CSharpe\SborkaMusora\SborkaMusora\obj\x86\Debug\SborkaMusora.pdb

@@ -1,0 +1,5 @@
+D:\Projects\MSLessons\CSharpe\Books\The Complete Reference\Example\Example\bin\Debug\Example.exe
+D:\Projects\MSLessons\CSharpe\Books\The Complete Reference\Example\Example\bin\Debug\Example.pdb
+D:\Projects\MSLessons\CSharpe\Books\The Complete Reference\Example\Example\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Projects\MSLessons\CSharpe\Books\The Complete Reference\Example\Example\obj\x86\Debug\Example.exe
+D:\Projects\MSLessons\CSharpe\Books\The Complete Reference\Example\Example\obj\x86\Debug\Example.pdb

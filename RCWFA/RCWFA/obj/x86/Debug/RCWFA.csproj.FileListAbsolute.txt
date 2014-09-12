@@ -1,0 +1,9 @@
+C:\WebServers\projects\RCWFA\RCWFA\bin\Debug\RCWFA.exe
+C:\WebServers\projects\RCWFA\RCWFA\bin\Debug\RCWFA.pdb
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\RCWFA.Properties.Resources.resources
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\RCWFA.exe
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\RCWFA.pdb
+C:\WebServers\projects\RCWFA\RCWFA\obj\x86\Debug\RCWFA.RCWF.resources

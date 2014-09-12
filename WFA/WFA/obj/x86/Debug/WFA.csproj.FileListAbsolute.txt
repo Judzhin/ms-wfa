@@ -1,0 +1,9 @@
+C:\WebServers\projects\WFA\WFA\bin\Debug\WFA.exe
+C:\WebServers\projects\WFA\WFA\bin\Debug\WFA.pdb
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\WFA.Properties.Resources.resources
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\WFA.exe
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\WFA.pdb
+C:\WebServers\projects\WFA\WFA\obj\x86\Debug\WFA.WFA.resources

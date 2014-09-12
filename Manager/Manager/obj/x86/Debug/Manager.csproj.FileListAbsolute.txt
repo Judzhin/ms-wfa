@@ -1,0 +1,9 @@
+C:\Projects\templates\CSharpe\Manager\Manager\bin\Debug\Manager.exe
+C:\Projects\templates\CSharpe\Manager\Manager\bin\Debug\Manager.pdb
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\Manager.Properties.Resources.resources
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\Manager.exe
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\Manager.pdb
+C:\Projects\templates\CSharpe\Manager\Manager\obj\x86\Debug\Manager.Main.resources

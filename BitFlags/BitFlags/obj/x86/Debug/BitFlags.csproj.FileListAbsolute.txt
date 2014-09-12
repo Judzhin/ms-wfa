@@ -1,0 +1,5 @@
+C:\MSLessons\CSharpe\BitFlags\BitFlags\bin\Debug\BitFlags.exe
+C:\MSLessons\CSharpe\BitFlags\BitFlags\bin\Debug\BitFlags.pdb
+C:\MSLessons\CSharpe\BitFlags\BitFlags\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\MSLessons\CSharpe\BitFlags\BitFlags\obj\x86\Debug\BitFlags.exe
+C:\MSLessons\CSharpe\BitFlags\BitFlags\obj\x86\Debug\BitFlags.pdb
